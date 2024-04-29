@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+[screen-recorder-mon-apr-29-2024-17-16-23.webm](https://github.com/VenkyK32/flight-center-test/assets/168485327/20d54072-029f-4600-9374-f4c26ab0de99)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
